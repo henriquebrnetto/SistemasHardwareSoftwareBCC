@@ -1,0 +1,7 @@
+https://curl.se/libcurl/c/libcurl.html
+https://curl.se/libcurl/c/10-at-a-time.html
+https://curl.se/libcurl/c/cacertinmem.html
+https://curl.se/libcurl/c/cookie_interface.html
+https://curl.se/libcurl/c/ghiper.html
+https://curl.se/libcurl/c/hiperfifo.html
+https://curl.se/libcurl/c/headerapi.html
